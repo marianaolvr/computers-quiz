@@ -1,5 +1,5 @@
 # computers-quiz :floppy_disk:
-This project is being created for the practice of Typescript!
+This project is being created for the practice of Typescript with VueJs!
 
 ## Project setup
 ```
