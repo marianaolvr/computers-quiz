@@ -1,4 +1,5 @@
-# computers-quiz
+# computers-quiz :floppy_disk:
+This project is being created for the practice of Typescript!
 
 ## Project setup
 ```
@@ -19,6 +20,3 @@ yarn build
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
